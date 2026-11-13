@@ -2,7 +2,7 @@
 
 ## Hi, I'm Aura 👋
 
-### Data & Integration Engineer · SQL / PL/SQL · Python · Snowflake
+### Data & Integration Engineer · SQL / PL/SQL · Python
 
 **Building reliable data solutions — one pipeline at a time.**
 
